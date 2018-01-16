@@ -1,1 +1,21 @@
-
+.une{
+  background-image:url("../img/payments-banner-graphic.png");
+  /* height: 100%; */
+  /* width: 100%; */
+}
+.monbouton{
+  color: blue;
+}
+.h2{
+  color: black;
+  border: 1px solid black;
+}
+.text{
+  color: white;
+}
+.trois{
+  /* background-color: red; */
+}
+.text2{
+  color: grey;
+}
