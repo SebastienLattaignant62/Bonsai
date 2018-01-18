@@ -1,7 +1,5 @@
 .une{
   background-image:url("../img/payments-banner-graphic.png");
-  /* height: 100%; */
-  /* width: 100%; */
 }
 .monbouton{
   color: blue;
@@ -13,9 +11,73 @@
 .text{
   color: white;
 }
-.trois{
-  /* background-color: red; */
-}
 .text2{
   color: grey;
+}
+.text3{
+  color: white;
+  font-size: 50px;
+}
+.colonnegauche{
+  background-color: #00FFFF;
+  padding-left: 3%;
+  overflow-y: hidden;
+  padding: 5% 5% 5% 5%;
+  padding-left: 2%;
+  height: 100%;
+}
+  /* background-color: pink; */
+  /* padding: 10px 10px 1px 10px; */
+}
+.colonnegauche2{
+  color: grey;
+}
+.h7{
+  color: blue;
+}
+.text4{
+  position: relative;
+  margin-top: 25%;
+  margin-left: 25%;
+  color: grey;
+}
+.text5{
+  margin-left: 10%;
+  color: grey;
+  margin-top: 25%;
+
+}
+.text7{
+  position: relative;
+  margin-top: 25%;
+  margin-left: 25%;
+  color: grey;
+}
+.monbouton2{
+  color: white;
+}
+.foot1{
+  background-color: black;
+}
+.textfoot{
+  margin-left: 20%;
+}
+.logofoot{
+  margin-left: 45%;
+  position: absolute;
+}
+.colonnedroite2{
+  background-color:#AC58FA;
+  padding: 5% 5% 5% 5%;
+  padding-left: 3%;
+}
+.colonnegauche3{
+  background-color:#00FFFF;
+  padding: 5% 5% 5% 5%;
+  padding-left: 2%;
+}
+.trois{
+}
+.quatre{
+  background-color: grey;
 }
