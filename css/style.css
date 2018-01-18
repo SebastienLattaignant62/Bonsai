@@ -1,8 +1,14 @@
 .une{
   background-image:url("../img/payments-banner-graphic.png");
+  border: 1px solid black;
+  height: 400px;
+}
+
+.paragraphe1{
+  font-size: 20px;
 }
 .monbouton{
-  color: blue;
+  color: #AC58FA;
 }
 .h2{
   color: black;
@@ -16,19 +22,16 @@
 }
 .text3{
   color: white;
-  font-size: 50px;
+
 }
 .colonnegauche{
-  background-color: #00FFFF;
-  padding-left: 3%;
+  background-color: #01DFD7;
   overflow-y: hidden;
-  padding: 5% 5% 5% 5%;
   padding-left: 2%;
-  height: 100%;
+  border-bottom: 1px solid grey;
 }
   /* background-color: pink; */
   /* padding: 10px 10px 1px 10px; */
-}
 .colonnegauche2{
   color: grey;
 }
@@ -45,7 +48,6 @@
   margin-left: 10%;
   color: grey;
   margin-top: 25%;
-
 }
 .text7{
   position: relative;
@@ -61,23 +63,32 @@
 }
 .textfoot{
   margin-left: 20%;
-}
-.logofoot{
-  margin-left: 45%;
-  position: absolute;
+  font-size: 10px;
+  color: white;
 }
 .colonnedroite2{
   background-color:#AC58FA;
-  padding: 5% 5% 5% 5%;
   padding-left: 3%;
+  overflow-y: hidden;
+  border-bottom: 1px solid grey;
 }
 .colonnegauche3{
-  background-color:#00FFFF;
-  padding: 5% 5% 5% 5%;
+  background-color:#01DFD7;
   padding-left: 2%;
-}
-.trois{
+  overflow-y: hidden;
 }
 .quatre{
   background-color: grey;
+  height: 100px;
+}
+.sept{
+  border-bottom: 1px solid grey;
+}
+.huit{
+  padding-top: 5%;
+  padding-bottom: 5%;
+  position: relative;
+}
+body{
+  font-family: 'Raleway', sans-serif;
 }
